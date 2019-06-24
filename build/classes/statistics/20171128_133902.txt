@@ -1,0 +1,7 @@
+Total Wins: 2
+Total Losses: 1
+Average of Credits: 11
+
+Game 1 played at 13:38 28/11/2017 - You lose. Number of credits netted 1.
+Game 2 played at 13:38 28/11/2017 - You won. Number of credits netted 14.
+Game 3 played at 13:38 28/11/2017 - You won. Number of credits netted 18.
